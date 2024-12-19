@@ -120,8 +120,7 @@ body {
   color: green;
 }
 
-
-@media (max-width: 1024px) {
+@media (max-width: 375px) {
   body {
     background-size: auto;
     background-position: top center;
@@ -159,13 +158,10 @@ body {
   .endorsement-li-el li {
     font-size: 14px;
     padding: 8px;
+    width: 11rem;
   }
 
   .credit {
     font-size: 10px;
   }
 }
-
-
-
-
